@@ -1,4 +1,4 @@
-# ED-Tech-Company-Clone-
+# ED-Tech-Company-Website
 A responsive Ed-Tech company landing page designed to promote online learning services, courses, and student engagement. Built using HTML5, CSS3, Bootstrap 5, and Font Awesome, it provides an interactive and user-friendly experience across all devices.
 
 📌 Features & Functionality
